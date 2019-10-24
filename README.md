@@ -6,7 +6,7 @@ Swing/JAVA
 
 Simple Hangman game using Swing.
 
-##Requirements
+## Requirements
 
 To run .jar file you need to download Java Runtime Environment.
 
